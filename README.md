@@ -1,9 +1,9 @@
-# micro-cheat (unofficial)
+# micro-cheat
 
 A plugin for the [Micro](https://github.com/zyedidia/micro) terminal based editor to provide a markdown cheatsheet for the language you're editing.
 
 > [!NOTE]
-> This unofficial version was forked from v0.0.5 & contains bug fixes that were left unresolved by the original source for over a year despite PRs being opened. _Primary fix resolves an error that was displaying anytime the Micro editor started (because of an invalid `\` in the Lua source code.)_
+> This unofficial version was forked from v0.0.5 & contains bug fixes that were left unresolved by the original source for over a year despite PRs being opened. _The primary fix resolves an error that was displaying anytime the Micro editor started (because of an invalid `\` in the Lua source code.)_
 
 ## Usage
 
